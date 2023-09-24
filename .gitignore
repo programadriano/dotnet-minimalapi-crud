@@ -1,0 +1,55 @@
+# Arquivos e pastas gerados automaticamente
+bin/
+obj/
+*.user
+*.suo
+*.vscode
+.vscode/
+.vs/
+
+# Cache de build
+ipch/
+*.sdf
+*.opensdf
+*.cachefile
+[Tt]humbs.db
+[Tt]est[Rr]esult*/
+[Bb]in
+[Dd]ebug*/
+[Rr]elease*/
+
+# Visual Studio
+[Vv]isual[Ss]tudio2019/
+*.VisualState.xml
+*.dbmdl
+*.jfm
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Rider
+.idea/
+
+# macOS
+.DS_Store
+
+# Arquivos de compilação
+.netconfig
+
+# Resíduos de editor
+[Tt]humbs.db
+[Tt]humbs.dbx
+*.~*
+*~
+*.swp
+
+# Arquivos de publicação
+_PublishedWebsites/
+pubxml
+*.pubxml
+*.publishproj
+
+# Ficheiros de construção
+[Bb]in/
+[Oo]bj/
